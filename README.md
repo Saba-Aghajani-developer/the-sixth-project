@@ -1,6 +1,6 @@
 # The Sixth Project
 ![the-sixth-project](https://github.com/Saba-Aghajani-developer/the-sixth-project/assets/135870519/ab00457b-f930-4eef-8fa3-8a1888baaf80)
-MM
+
 - [Demo Project](https://saba-aghajani-developer.github.io/the-sixth-project/)
 
 - Developed by Saba Aghajani
